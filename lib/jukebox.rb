@@ -12,3 +12,6 @@ songs = [
 ]
 
 
+def help
+  puts "I accept the following commands:\n- help : displays this help message\n-list : "
+end
